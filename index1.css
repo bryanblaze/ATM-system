@@ -1,0 +1,31 @@
+
+.hide{
+    display: none;
+   
+}
+
+.display{
+    display: block;
+}
+.cont1{
+background-color:#ECECE4                              ;
+}
+.divi1{
+    color: black;
+}
+.logo{
+    
+    margin-left:450px;
+}
+.h1a{
+    margin-top:100px;
+    margin-left:520px;  
+}
+.h1b{
+    
+    margin-left:500px;  
+}
+.h4a{
+    margin-top:50px;
+    margin-left:550px;  
+}

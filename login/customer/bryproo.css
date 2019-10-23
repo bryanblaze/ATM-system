@@ -1,0 +1,126 @@
+
+body{
+    margin:0px;
+    overflow: hidden;
+    background: #f2f2f2;
+}
+
+nav img{
+    width:200px;
+    height:70px;
+}
+nav h1{
+    color:white;
+}
+header{
+    margin:0px;
+    height:50px;
+    width:100%;
+   background: silver;
+    text-align: center;
+}
+
+.colh1 {
+    width:80%; 
+    text-align: center;
+    font-size:35px;
+}
+
+
+.colh2{
+    width:20%;   
+}
+
+div.colh2 ul li{
+    float: right;
+    list-style: none;
+}
+div.colh2 ul li a{
+    padding:15px;
+}
+.row{
+    width:100%;
+   
+}
+.coly-1{
+    margin-top:30px;
+
+    width:452px;
+
+   
+}
+.coly-2{
+    margin-top:30px;
+    
+
+    width:462px;
+ 
+}
+.coly-3{
+    margin-top:30px;
+    
+    
+    width:435px;
+   
+}
+.coly4{
+    
+    width:100%;
+    margin-top:40px;
+  
+  
+}
+.logo{
+font-size:70px;
+word-spacing: 20px;
+letter-spacing: 10px;
+text-align: center;
+margin-top:150px;
+}
+div.coly-1 button{ 
+  
+    margin-left:150px;
+    padding:20px;
+    margin-top:20px;
+    margin-bottom:60px;
+}
+
+div.coly-3 button{ 
+
+    margin-left:150px;
+    padding:20px;
+    margin-top:20px;
+    margin-bottom:60px;
+}
+
+.footcont{
+    background: #2E2E2E;
+    margin:0;
+    color:white;
+}
+.footcont ul li{
+    margin-left:20px;
+    list-style: none;
+    float:left;
+    padding-left:60px;
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+button.credit{
+    background:white;
+}
+
+button{
+  position: relative;
+  transform-style: preserve-3d;
+  
+
+}
+button:hover{
+    transform: perspective(500px) rotateY(30deg) rotateX(30deg) rotateZ(0deg);
+    box-shadow:-30px 30px  50px white;
+}
+p {
+    color:red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
