@@ -1,6 +1,6 @@
 # ATM-system
 
-This is my working ATM management system mini project in sem 5 COMP BE FOR subeject wdl and dbms made using html,css,javascript,php 
+This is my working ATM management system mini project in sem 5 ,BE in COMP FOR subject wdl and dbms made using html,css,javascript,php 
 and mysqli(xampp)
 
 
